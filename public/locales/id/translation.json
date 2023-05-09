@@ -12,7 +12,7 @@
     "header": "JuaraGCP Seri Ke-9 dimulai dalam",
     "notif": "Dihitung berdasarkan waktu server Google Cloud Skills Boost Pukul 00.00",
     "content": "Kunjungi <0>JuaraGCP</0> untuk mempelajari event JuaraGCP Seri Ke-8 lebih lanjut.",
-    "content_url": "https://events.withgoogle.com/juaragcp8/"
+    "content_url": "https://goo.gle/JuaraGCP"
   },
   "event": {
     "header": "JuaraGCP Seri Ke-9 selesai pada",
@@ -22,7 +22,7 @@
     "validator": "Ingin mengetahui sudah sampai Tier berapa? Kunjungi <0>Validator</0> untuk mengetahuinya.",
     "validator_url": "validators",
     "validator_source": "Takut dengan kode yang ada di sini? Kunjungi <0>Github</0> untuk membaca sumber kodenya",
-    "validator_source_url": "https://github.com/withered-flowers/apps-juaragcp-astro",
+    "validator_source_url": "https://github.com/withered-flowers/apps-juaragcp-astro-s9",
     "discord": "Ingin berbincang dengan teman seperjuangan? Kunjungi <0>Discord</0> untuk berkomunikasi",
     "discord_url": "",
     "sheet": "Ingin memilih apa saja yang dikerjakan? Gunakan <0>Sheet</0> ini untuk membantumu.",

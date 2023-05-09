@@ -12,7 +12,7 @@
     "header": "JuaraGCP Season 9 will be started in",
     "notif": "Based on Google Cloud Skills Boost Server's Timezone (00.00 AM)",
     "content": "Visit <0>JuaraGCP</0> to learn more about JuaraGCP Season 9.",
-    "content_url": "https://events.withgoogle.com/juaragcp8/"
+    "content_url": "https://goo.gle/JuaraGCP"
   },
   "event": {
     "header": "JuaraGCP Season 9 will be ended in",
@@ -22,7 +22,7 @@
     "validator": "Wanna know which Tier you are right now? Visit <0>Validator</0> to check it.",
     "validator_url": "validators",
     "validator_source": "Worried about your privacy on this web? Visit <0>Github</0> to read the source code",
-    "validator_source_url": "https://github.com/withered-flowers/apps-juaragcp-astro",
+    "validator_source_url": "https://github.com/withered-flowers/apps-juaragcp-astro-s9",
     "discord": "Wanna talk with your comrade-in-arms? Visit <0>Discord</0> for having discussion (mostly in Bahasa Indonesia)",
     "discord_url": "",
     "sheet": "Wanna min maxing your work? Use this <0>Sheet</0> to help you.",
