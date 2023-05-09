@@ -19,7 +19,7 @@ Tech stack yang digunakan untuk membuat aplikasi ini adalah:
 
 Untuk menjalankan aplikasi ini, dapat dilakukan dengan cara:
 
-  1. Clone repository ini dan Repository BackEnd (functions) yang ada di [sini](https://github.com/withered-flowers/apps-validate-qwiklabs-juaragcp)
+  1. Clone repository ini dan Repository BackEnd (functions) yang ada di [sini](https://github.com/withered-flowers/apps-validate-qwiklabs-juaragcp-s9)
   1. Deploy Functions yang ada di BE tersebut ke Vercel / hosting sejenisnya (Config yang ada di repo tersebut sudah disesuaikan untuk deploy di vercel)
   1. Deploy Repository ini, dan sebelum deploy set environment variabel dengan nama `PUBLIC_BE_URL` yang mengarah ke domain backend functions tersebut
   1. Selesai.
