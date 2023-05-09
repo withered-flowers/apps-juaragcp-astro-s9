@@ -1,0 +1,38 @@
+{
+  "site": {
+    "title": "JuaraGCP Seri Ke-9"
+  },
+  "countdown": {
+    "day": "hari",
+    "hour": "jam",
+    "minute": "menit",
+    "second": "detik"
+  },
+  "preEvent": {
+    "header": "JuaraGCP Seri Ke-9 dimulai dalam",
+    "notif": "Dihitung berdasarkan waktu server Google Cloud Skills Boost Pukul 00.00",
+    "content": "Kunjungi <0>JuaraGCP</0> untuk mempelajari event JuaraGCP Seri Ke-8 lebih lanjut.",
+    "content_url": "https://events.withgoogle.com/juaragcp8/"
+  },
+  "event": {
+    "header": "JuaraGCP Seri Ke-9 selesai pada",
+    "notif": "Dihitung berdasarkan waktu server Indonesia UTC+7 (WIB)",
+    "visit": "Kunjungi <0>JuaraGCP</0> untuk mempelajari event JuaraGCP Seri Ke-9 lebih lanjut.",
+    "visit_url": "https://goo.gle/JuaraGCP",
+    "validator": "Ingin mengetahui sudah sampai Tier berapa? Kunjungi <0>Validator</0> untuk mengetahuinya.",
+    "validator_url": "validators",
+    "validator_source": "Takut dengan kode yang ada di sini? Kunjungi <0>Github</0> untuk membaca sumber kodenya",
+    "validator_source_url": "https://github.com/withered-flowers/apps-juaragcp-astro",
+    "discord": "Ingin berbincang dengan teman seperjuangan? Kunjungi <0>Discord</0> untuk berkomunikasi",
+    "discord_url": "",
+    "sheet": "Ingin memilih apa saja yang dikerjakan? Gunakan <0>Sheet</0> ini untuk membantumu.",
+    "sheet_url": "https://firebasestorage.googleapis.com/v0/b/dev-that-can-be-crashed.appspot.com/o/juaragcp%2FJuaraGCPSeason9Checklist.xls?alt=media&token=cfc62d85-d99c-46f7-abbf-bfd62206e08a"
+  },
+  "validator": {
+    "header": "Pengecek Profil CloudSkillBoost",
+    "placeholder": "Masukkan URL Publik Profil Anda disini",
+    "button": "Cek Profil",
+    "back": "Kembali ke halaman utama",
+    "back_url": "/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "site": {
+    "title": "JuaraGCP Season 9"
+  },
+  "countdown": {
+    "day": "day",
+    "hour": "hour",
+    "minute": "minute",
+    "second": "second"
+  },
+  "preEvent": {
+    "header": "JuaraGCP Season 9 will be started in",
+    "notif": "Based on Google Cloud Skills Boost Server's Timezone (00.00 AM)",
+    "content": "Visit <0>JuaraGCP</0> to learn more about JuaraGCP Season 9.",
+    "content_url": "https://events.withgoogle.com/juaragcp8/"
+  },
+  "event": {
+    "header": "JuaraGCP Season 9 will be ended in",
+    "notif": "Based on Indonesian's Server UTC+7 (WIB)",
+    "visit": "Visit <0>JuaraGCP</0> to learn more about JuaraGCP Season 9.",
+    "visit_url": "https://goo.gle/JuaraGCP",
+    "validator": "Wanna know which Tier you are right now? Visit <0>Validator</0> to check it.",
+    "validator_url": "validators",
+    "validator_source": "Worried about your privacy on this web? Visit <0>Github</0> to read the source code",
+    "validator_source_url": "https://github.com/withered-flowers/apps-juaragcp-astro",
+    "discord": "Wanna talk with your comrade-in-arms? Visit <0>Discord</0> for having discussion (mostly in Bahasa Indonesia)",
+    "discord_url": "",
+    "sheet": "Wanna min maxing your work? Use this <0>Sheet</0> to help you.",
+    "sheet_url": "https://firebasestorage.googleapis.com/v0/b/dev-that-can-be-crashed.appspot.com/o/juaragcp%2FJuaraGCPSeason9Checklist.xls?alt=media&token=cfc62d85-d99c-46f7-abbf-bfd62206e08a" 
+  },
+  "validator": {
+    "header": "Validator CloudSkillBoost Profile",
+    "placeholder": "Insert Your Public Profile URL here",
+    "button": "Check Profile",
+    "back": "Back to home page",
+    "back_url": "/en"
+  }
+}
